@@ -26,11 +26,7 @@ This work demonstrates that structured reference tracking can enhance source cre
 
 ## Results
 
-The system flagged 51 potential cases of circular reporting in a dataset of over 250,000 articles across ERR, Postimees, and Delfi. Manual validation confirmed that most circular links involved self-references or repeated sourcing patterns. Precision was evaluated based on manually labeled results using the following formula:
-
-\[
-\text{precision} = \frac{\text{TP}}{\text{TP} + \text{FP}}
-\]
+The system flagged 51 potential cases of circular reporting in a dataset of over 250,000 articles across ERR, Postimees, and Delfi. Manual validation confirmed that most circular links involved self-references or repeated sourcing patterns.
 
 The final system is intended as a semi-automated tool to help journalists, researchers, or media watchdogs track reference chains and assess source independence.
 
