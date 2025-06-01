@@ -20,7 +20,7 @@ In the modern information landscape, the speed with which news is spread has rea
 
 ## Results
 
-The system flagged 51 potential cases of circular reporting in a dataset of over 250,000 articles across ERR, Postimees, and Delfi. Manual validation confirmed that most circular links involved self-references or repeated sourcing patterns.
+The system flagged 51 potential cases of circular reporting in a dataset of 283,880 articles across ERR, Postimees, and Delfi. Manual validation confirmed that most circular links involved self-references or repeated sourcing patterns.
 
 The final system is intended as a semi-automated tool to help journalists, researchers, or media watchdogs track reference chains and assess source independence.
 
